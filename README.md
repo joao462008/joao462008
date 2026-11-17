@@ -1,11 +1,7 @@
 <div align="center">
-  
-  <!-- Banner ou Imagem de Cabeçalho (Opcional) -->
-  <!-- <img src="URL_DA_SUA_IMAGEM_AQUI" alt="Banner" width="100%" /> -->
-
   <h1>Olá! Eu sou o João Pedro 👋</h1>
   <p>
-    <strong>Sou um jovem que esta ingressando no mundo da programação</strong>
+    <strong>Estudante de Engenharia de Software ingressando no mundo da programação</strong>
   </p>
 
   <!-- Badges de Redes Sociais -->
@@ -23,40 +19,50 @@
 
 ### 👨‍💻 Sobre mim
 
+- 🔭 Atualmente trabalho na prefeitura no setor de **Suporte Técnico** e curso **Engenharia de Software**
+- 🌱 Estou aprendendo **Estruturas de Dados (Matrizes)**, desenvolvimento **Mobile** e programação em **C**
 
-- 🔭 Atualmente estou trabalhando na prefeitura no setor de **Suporte tecnico**
-- 🌱 Estou aprendendo **Estrutura basica matriz**
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-Aqui estão algumas das principais tecnologias com as quais trabalho no dia a dia:
-
 <div align="left">
   <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   
-  <!-- Front-end -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <!-- Front-end & Mobile -->
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   
-  <!-- Back-end & Banco de Dados -->
+  <!-- Back-end & Ferramentas -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  
-  <!-- Ferramentas -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
+<div align="center">
+  <!-- Card de Sequência (Streak) - Servidor independente e muito estável -->
+  <a href="https://github.com/joao462008">
+    <img height="175em" src="https://streak-stats.demolab.com?user=joao462008&theme=tokyonight&locale=pt_BR" alt="Sequência de contribuições de João" />
+  </a>
+  
+  <!-- Espelho alternativo do Readme Stats -->
+  <a href="https://github.com/joao462008">
+    <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=joao462008&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub de João" />
+  </a>
+</div>
 
 <div align="center">
+  <!-- Linguagens mais usadas -->
   <a href="https://github.com/joao462008">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao462008&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de João" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao462008&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas por João" />
+    <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=joao462008&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas por João" />
   </a>
 </div>
 
@@ -66,9 +72,9 @@ Aqui estão algumas das principais tecnologias com as quais trabalho no dia a di
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| [**Nome do Projeto 1**](https://github.com/joao462008/repo1) | Breve descrição do que o projeto faz e qual problema resolve. | `React`, `Node.js` |
-| [**Nome do Projeto 2**](https://github.com/joao462008/repo2) | Breve descrição do que o projeto faz e qual problema resolve. | `Python`, `FastAPI` |
-| [**Nome do Projeto 3**](https://github.com/joao462008/repo3) | Breve descrição do que o projeto faz e qual problema resolve. | `TypeScript`, `Next.js` |
+| [**Nexus**](https://github.com/joao462008/SEU-REPO-NEXUS) | Aplicativo mobile para monitoramento de treino, composição corporal (FFMI, Katch-McArdle) e hidratação. | `React Native`, `Expo` |
+| [**CS Cyber Security**](https://github.com/joao462008/SEU-REPO-CYBER) | Jogo educativo interativo sobre segurança digital e prevenção contra golpes virtuais. | `HTML5`, `CSS3`, `JavaScript` |
+| [**GameLoot**](https://github.com/joao462008/SEU-REPO-GAMELOOT) | Plataforma e-commerce mobile focada em hardware e periféricos gamer. | `React Native`, `JavaScript` |
 
 ---
 
