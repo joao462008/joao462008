@@ -54,9 +54,9 @@ Aqui estão algumas das principais tecnologias com as quais trabalho no dia a di
 
 
 <div align="center">
-  <a href="https://github.com/joao462008-GITHUB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao462008-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/joao462008">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao462008&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de João" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao462008&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas por João" />
   </a>
 </div>
 
@@ -66,12 +66,12 @@ Aqui estão algumas das principais tecnologias com as quais trabalho no dia a di
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[Nome do Projeto 1](https://github.com/SEU-USUARIO-GITHUB/repo1)** | Breve descrição do que o projeto faz e qual problema resolve. | `React`, `Node.js` |
-| **[Nome do Projeto 2](https://github.com/SEU-USUARIO-GITHUB/repo2)** | Breve descrição do que o projeto faz e qual problema resolve. | `Python`, `FastAPI` |
-| **[Nome do Projeto 3](https://github.com/SEU-USUARIO-GITHUB/repo3)** | Breve descrição do que o projeto faz e qual problema resolve. | `TypeScript`, `Next.js` |
+| [**Nome do Projeto 1**](https://github.com/joao462008/repo1) | Breve descrição do que o projeto faz e qual problema resolve. | `React`, `Node.js` |
+| [**Nome do Projeto 2**](https://github.com/joao462008/repo2) | Breve descrição do que o projeto faz e qual problema resolve. | `Python`, `FastAPI` |
+| [**Nome do Projeto 3**](https://github.com/joao462008/repo3) | Breve descrição do que o projeto faz e qual problema resolve. | `TypeScript`, `Next.js` |
 
 ---
 
 <div align="center">
-  <i>Feito com ❤️ por [Seu Nome]</i>
+  <i>Feito com ❤️ por João Pedro</i>
 </div>
