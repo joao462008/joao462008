@@ -16,9 +16,6 @@
     <a href="mailto:joaopedropicollo3@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://seu-portfolio.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
-    </a>
   </p>
 </div>
 
@@ -28,12 +25,8 @@
 
 Escreva aqui um breve resumo sobre você, sua jornada na programação, o que te motiva e quais são seus objetivos atuais.
 
-- 🔭 Atualmente estou trabalhando em **Na prefeirtura na area de suporte tecnico**
-- 🌱 Estou aprendendo **[Tecnologia ou Conceito que está estudando]**
-- 👯 Procuro colaborar em **[Tipos de projetos, ex: projetos open-source em React/Node]**
-- 💬 Pergunte-me sobre **[Assuntos que você domina]**
-- ⚡ Curiosidade: **[Um fato divertido ou hobby fora da programação]**
-
+- 🔭 Atualmente estou trabalhando na prefeitura no setor de **Suporte tecnico**
+- 🌱 Estou aprendendo **Estrutura basica matriz**
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -43,7 +36,6 @@ Aqui estão algumas das principais tecnologias com as quais trabalho no dia a di
 <div align="left">
   <!-- Linguagens -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   
   <!-- Front-end -->
@@ -56,8 +48,6 @@ Aqui estão algumas das principais tecnologias com as quais trabalho no dia a di
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   
   <!-- Ferramentas -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
 ---
@@ -67,7 +57,7 @@ Aqui estão algumas das principais tecnologias com as quais trabalho no dia a di
 > **Nota:** Substitua `SEU-USUARIO-GITHUB` pelo seu nome de usuário real do GitHub nos links abaixo para que os gráficos funcionem!
 
 <div align="center">
-  <a href="https://github.com/SEU-USUARIO-GITHUB">
+  <a href="https://github.com/joao462008">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
