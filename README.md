@@ -23,7 +23,6 @@
 
 ### 👨‍💻 Sobre mim
 
-Escreva aqui um breve resumo sobre você, sua jornada na programação, o que te motiva e quais são seus objetivos atuais.
 
 - 🔭 Atualmente estou trabalhando na prefeitura no setor de **Suporte tecnico**
 - 🌱 Estou aprendendo **Estrutura basica matriz**
@@ -45,7 +44,6 @@ Aqui estão algumas das principais tecnologias com as quais trabalho no dia a di
   
   <!-- Back-end & Banco de Dados -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   
   <!-- Ferramentas -->
 </div>
@@ -54,11 +52,10 @@ Aqui estão algumas das principais tecnologias com as quais trabalho no dia a di
 
 ### 📊 Estatísticas do GitHub
 
-> **Nota:** Substitua `SEU-USUARIO-GITHUB` pelo seu nome de usuário real do GitHub nos links abaixo para que os gráficos funcionem!
 
 <div align="center">
-  <a href="https://github.com/joao462008">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/joao462008-GITHUB">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao462008-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
