@@ -48,7 +48,7 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Card de Sequência (Streak) - Servidor independente e muito estável -->
+  <!-- Card de Sequência (Streak) -->
   <a href="https://github.com/joao462008">
     <img height="175em" src="https://streak-stats.demolab.com?user=joao462008&theme=tokyonight&locale=pt_BR" alt="Sequência de contribuições de João" />
   </a>
@@ -72,9 +72,8 @@
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| [**Nexus**](https://github.com/joao462008/SEU-REPO-NEXUS) | Aplicativo mobile para monitoramento de treino, composição corporal (FFMI, Katch-McArdle) e hidratação. | `React Native`, `Expo` |
-| [**CS Cyber Security**](https://github.com/joao462008/SEU-REPO-CYBER) | Jogo educativo interativo sobre segurança digital e prevenção contra golpes virtuais. | `HTML5`, `CSS3`, `JavaScript` |
-| [**GameLoot**](https://github.com/joao462008/SEU-REPO-GAMELOOT) | Plataforma e-commerce mobile focada em hardware e periféricos gamer. | `React Native`, `JavaScript` |
+| [**GameLoot (TCC)**](https://github.com/joao462008/TCC) | Plataforma e-commerce mobile focada em hardware e periféricos gamer. | `React Native`, `JavaScript` |
+| [**Trabalho Só Fórmulas**](https://github.com/joao462008/Trabalho-so-formulas) | Projeto prático focado em lógica e cálculos matemáticos aplicados. | `Lógica`, `Algoritmos` |
 
 ---
 
