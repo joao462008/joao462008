@@ -72,6 +72,7 @@
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
+| [**CS Cyber Security**](https://github.com/joao462008/CS-cyber-security) | Jogo educativo interativo de extensão universitária sobre segurança digital e prevenção contra golpes virtuais. | `HTML5`, `CSS3`, `JavaScript` |
 | [**GameLoot (TCC)**](https://github.com/joao462008/TCC) | Plataforma e-commerce mobile focada em hardware e periféricos gamer. | `React Native`, `JavaScript` |
 | [**Só Fórmulas**](https://github.com/joao462008/Trabalho-so-formulas) | Site desenvolvido para uma farmácia de manipulação local, apresentando serviços e contato. | `HTML5`, `CSS3`, `JavaScript` |
 
