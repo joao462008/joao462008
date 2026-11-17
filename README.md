@@ -3,17 +3,17 @@
   <!-- Banner ou Imagem de Cabeçalho (Opcional) -->
   <!-- <img src="URL_DA_SUA_IMAGEM_AQUI" alt="Banner" width="100%" /> -->
 
-  <h1>Olá! Eu sou o [Seu Nome] 👋</h1>
+  <h1>Olá! Eu sou o João Pedro 👋</h1>
   <p>
-    <strong>[Seu Cargo ou Foco Principal, ex: Desenvolvedor Full Stack | Entusiasta de Open Source]</strong>
+    <strong>Sou um jovem que esta ingressando no mundo da programação</strong>
   </p>
 
   <!-- Badges de Redes Sociais -->
   <p>
-    <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
+    <a href="linkedin.com/in/joão-pedro-picolo-ferreira-8998a2382/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:seu-email@exemplo.com">
+    <a href="mailto:joaopedropicollo3@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://seu-portfolio.com" target="_blank">
@@ -28,7 +28,7 @@
 
 Escreva aqui um breve resumo sobre você, sua jornada na programação, o que te motiva e quais são seus objetivos atuais.
 
-- 🔭 Atualmente estou trabalhando em **[Nome do Projeto ou Empresa]**
+- 🔭 Atualmente estou trabalhando em **Na prefeirtura na area de suporte tecnico**
 - 🌱 Estou aprendendo **[Tecnologia ou Conceito que está estudando]**
 - 👯 Procuro colaborar em **[Tipos de projetos, ex: projetos open-source em React/Node]**
 - 💬 Pergunte-me sobre **[Assuntos que você domina]**
