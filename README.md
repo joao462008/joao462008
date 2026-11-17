@@ -73,7 +73,7 @@
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | [**GameLoot (TCC)**](https://github.com/joao462008/TCC) | Plataforma e-commerce mobile focada em hardware e periféricos gamer. | `React Native`, `JavaScript` |
-| [**Trabalho Só Fórmulas**](https://github.com/joao462008/Trabalho-so-formulas) | Projeto prático focado em lógica e cálculos matemáticos aplicados. | `Lógica`, `Algoritmos` |
+| [**Só Fórmulas**](https://github.com/joao462008/Trabalho-so-formulas) | Site desenvolvido para uma farmácia de manipulação local, apresentando serviços e contato. | `HTML5`, `CSS3`, `JavaScript` |
 
 ---
 
