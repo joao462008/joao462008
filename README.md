@@ -40,4 +40,45 @@
   
   <!-- Back-end & Ferramentas -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <!-- Card de Sequência (Streak) -->
+  <a href="https://github.com/joao462008">
+    <img height="175em" src="https://streak-stats.demolab.com?user=joao462008&theme=tokyonight&locale=pt_BR" alt="Sequência de contribuições de João" />
+  </a>
+  
+  <!-- Espelho alternativo do Readme Stats -->
+  <a href="https://github.com/joao462008">
+    <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=joao462008&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub de João" />
+  </a>
+</div>
+
+<div align="center">
+  <!-- Linguagens mais usadas -->
+  <a href="https://github.com/joao462008">
+    <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=joao462008&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas por João" />
+  </a>
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| [**Nexus App**](https://github.com/joao462008/Nexus_app) | Aplicativo fitness para monitoramento de treinos, métricas fisiológicas (FFMI, Katch-McArdle), hidratação e proteínas. | `React Native`, `Expo`, `JavaScript` |
+| [**CS Cyber Security**](https://github.com/joao462008/CS-cyber-security) | Jogo educativo interativo de extensão universitária sobre segurança digital e prevenção contra golpes virtuais. | `HTML5`, `CSS3`, `JavaScript` |
+| [**GameLoot (TCC)**](https://github.com/joao462008/TCC) | Plataforma e-commerce mobile focada em hardware e periféricos gamer. | `React Native`, `JavaScript` |
+| [**Só Fórmulas**](https://github.com/joao462008/Trabalho-so-formulas) | Site desenvolvido para uma farmácia de manipulação local, apresentando serviços e contato. | `HTML5`, `CSS3`, `JavaScript` |
+
+---
+
+<div align="center">
+  <i>Feito com ❤️ por João Pedro</i>
+</div>
